@@ -1,0 +1,15 @@
+.counter-controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  button {
+    padding: 5px 20px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+  }

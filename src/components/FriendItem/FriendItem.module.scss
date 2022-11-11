@@ -1,0 +1,19 @@
+.friendItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #979090;
+  border-radius: 20px;
+  margin-bottom: 25px;
+
+  img {
+    max-height: 150px;
+    padding: 10px;
+  }
+}
+
+.name {
+  font-size: 24px;
+  text-transform: uppercase;
+}

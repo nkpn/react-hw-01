@@ -1,0 +1,35 @@
+.Dropdown {
+  margin: 50px;
+  max-width: 400px;
+  border: 1px solid black;
+  position: relative;
+  margin-bottom: 100px;
+  padding: 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Dropdown__toggle {
+  padding: 5px 20px;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 10px;
+  display: block;
+  border: none;
+  cursor: pointer;
+}
+
+.Dropdown__menu{
+    position: absolute;
+    font-size: 18px;
+    top:100%;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+    max-width: 400px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    border: 1px solid teal;
+}

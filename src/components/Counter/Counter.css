@@ -1,0 +1,19 @@
+.counter {
+  margin: 50px;
+  padding: 20px;
+  max-width: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-value {
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  display: block;
+}
+
+
