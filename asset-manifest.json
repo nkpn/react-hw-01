@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nkpn/static/css/main.5c17d217.css",
+    "main.js": "/nkpn/static/js/main.e1fbb1f1.js",
+    "index.html": "/nkpn/index.html",
+    "main.5c17d217.css.map": "/nkpn/static/css/main.5c17d217.css.map",
+    "main.e1fbb1f1.js.map": "/nkpn/static/js/main.e1fbb1f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c17d217.css",
+    "static/js/main.e1fbb1f1.js"
+  ]
+}
